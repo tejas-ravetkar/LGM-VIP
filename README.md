@@ -1,6 +1,6 @@
 # LGM-VIP
 # Data Science Internship
-Internship Task 1 August 2021
+Task 1, August 2021
 
 Name: Tejas Ravetkar
 
